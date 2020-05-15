@@ -1,0 +1,6 @@
+.Pokecard {
+    border: 2px solid mediumaquamarine;
+    margin: 20px;
+    width: min-content;
+    padding: 20px;
+}
